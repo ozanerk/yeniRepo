@@ -5,5 +5,9 @@ public class Class01 {
         int toplam=x+y;
         System.out.println(toplam);
         System.out.printf("toplam", toplam);
+        //V1 calismalarim
+        //v2 calismalari
+        //v3 calismalar
+
     }
 }
