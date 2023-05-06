@@ -8,6 +8,8 @@ public class Class01 {
         //V1 calismalarim
         //v2 calismalari
         //v3 calismalar
+        //v4 kisayoldan commit
+
 
     }
 }
